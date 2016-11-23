@@ -15,6 +15,7 @@
  d. Delta menor que zero: a equação não apresenta raízes reais.
 
  ENVIAR PARA OCARATECNICO@HOTMAIL.COM
+ mais observações.
  */
 
  #include <stdio.h>
